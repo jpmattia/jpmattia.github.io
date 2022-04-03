@@ -33,7 +33,7 @@ github_username:  jpmattia
 
 
 # Build settings
-# plugins:
+plugins:
   - jekyll-feed
   - jekyll-remote-theme
 
