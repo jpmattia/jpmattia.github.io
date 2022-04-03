@@ -31,6 +31,10 @@ $$
 i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)
 $$
 
+$$
+E\Psi = \hat H \Psi
+$$
+
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
