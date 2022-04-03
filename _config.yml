@@ -37,7 +37,7 @@ github_username:  jpmattia
 #  - jekyll-feed
 #  - jekyll-remote-theme
 
-remote_theme: jpmattia/jekyll-theme-hydure
+# remote_theme: jpmattia/jekyll-theme-hydure
 
 # Exclude from processing.
 # The following items will not be processed, by default.
