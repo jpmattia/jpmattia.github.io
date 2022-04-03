@@ -33,9 +33,9 @@ github_username:  jpmattia
 
 
 # Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme
+# plugins:
+#  - jekyll-feed
+#  - jekyll-remote-theme
 
 remote_theme: jpmattia/jekyll-theme-hydure
 
