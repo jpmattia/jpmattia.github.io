@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: "Wonderful Typography"
+math: true
 subheadline: "Reading Experience"
 meta_teaser: "Feeling Responsive uses Volkhov for headlines, Lato for everything else and if you are in need to show some code, it will be in Lucida Console."
 teaser: "<em>Feeling Responsive</em> uses <a href='https://www.google.com/fonts/specimen/Volkhov'>Volkhov</a> for headlines, <a href='https://www.google.com/fonts/specimen/Lato'>Lato</a> for everything else and if you are in need to show some code, it will be in <a href='http://www.microsoft.com/typography/fonts/family.aspx?FID=18'>Lucida Console</a> or <a href='http://en.wikipedia.org/wiki/Monaco_(typeface)'>Monaco</a>."
@@ -274,6 +275,16 @@ Let's <mark>mark this hint</mark> to give you a clue.
 
 Need a break? I give you three!<br><br><br>
 
+
+## Math
+math
+ $$
+ i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)
+ $$
+ 
+$$
+E\Psi = \hat H \Psi
+$$
 
 ## Footnotes
 

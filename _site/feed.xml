@@ -99,6 +99,7 @@
       &lt;li&gt;&lt;a href=&quot;#br&quot; id=&quot;markdown-toc-br&quot;&gt;&amp;lt;br&amp;gt;&lt;/a&gt;&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#math&quot; id=&quot;markdown-toc-math&quot;&gt;Math&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#footnotes&quot; id=&quot;markdown-toc-footnotes&quot;&gt;Footnotes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;#h1-heading-in-volkhov&quot; id=&quot;markdown-toc-h1-heading-in-volkhov&quot;&gt;&amp;lt;h1&amp;gt;-Heading in Volkhov&lt;/a&gt;    &lt;ul&gt;
       &lt;li&gt;&lt;a href=&quot;#h2-heading-in-volkhov&quot; id=&quot;markdown-toc-h2-heading-in-volkhov&quot;&gt;&amp;lt;h2&amp;gt;-Heading in Volkhov&lt;/a&gt;        &lt;ul&gt;
@@ -377,6 +378,12 @@
     &lt;h3 id=&quot;br&quot;&gt;&amp;lt;br&amp;gt;&lt;/h3&gt;
 
     &lt;p&gt;Need a break? I give you three!&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+    &lt;h2 id=&quot;math&quot;&gt;Math&lt;/h2&gt;
+    &lt;p&gt;math
+ \(i \hbar \frac{\partial}{\partial t}\Psi(\mathbf{r},t) = \hat H \Psi(\mathbf{r},t)\)&lt;/p&gt;
+
+\[E\Psi = \hat H \Psi\]
 
     &lt;h2 id=&quot;footnotes&quot;&gt;Footnotes&lt;/h2&gt;
 

@@ -19,5 +19,10 @@ layout: compress
 	{% endunless %}
 
 	{% include _footer_scripts.html %}
+	{% if page.math %}
+          {% include mathjax.html %}
+        {% endif %}
+
+
 </body>
 </html>
