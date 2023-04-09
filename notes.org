@@ -1,0 +1,13 @@
+* fix for the footer
+
+** size
+There seems to be no way to size the footer bar, which seemed large to me. Changed _sass/minimal-mistakes/_footer.scss:
+
+#+BEGIN_EXAMPLE
+  footer {
+    margin-top: 0.5em;
+    padding: 0 1em 0.5em;
+  }
+#+END_EXAMPLE
+
+** 
