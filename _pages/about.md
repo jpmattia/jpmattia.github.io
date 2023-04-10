@@ -15,8 +15,8 @@ last_modified_at: 2023-04-09T23:59:26-04:00
 ### About Me
 
 Welcome! If we've not already met, I'm JP Mattia. I started this blog mainly out of peer pressure, which really means
-that after writing some posts about restaurants, a couple of comments said "You should write some essays or a
-memoir". I'm 100% sure everyone who said that now regrets it.
+that after writing some posts about restaurants, a couple of commenters wrote "You should write some essays or a
+memoir". I'm 100% sure everyone who wrote that now regrets it.
 
 The brief outline of my life: I grew up in southern Connecticut, left to attend MIT in 1982, and didn't leave
 until 1996.  While that's not a career path that would suit everybody, it was exactly the right life for me. Along the
