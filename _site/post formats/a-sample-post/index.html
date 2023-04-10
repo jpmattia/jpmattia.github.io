@@ -102,6 +102,16 @@
 
     <!-- start custom head snippets -->
 
+<!-- for mathjax support -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+<script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
 <!-- end custom head snippets -->
@@ -109,13 +119,17 @@
   </head>
 
   <body class="layout--single">
-    <nav class="skip-links">
+    <!--
+ This did not seem useful, so we commented it out.
+
+<nav class="skip-links">
   <ul>
     <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
     <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
     <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
   </ul>
 </nav>
+-->
 
     
 
@@ -311,7 +325,7 @@
 
 <p>Occasionally in her travels through her children’s minds Mrs. Darling found things she could not understand, and of these quite the most perplexing was the word Peter. She knew of no Peter, and yet he was here and there in John and Michael’s minds, while Wendy’s began to be scrawled all over with him. The name stood out in bolder letters than any of the other words, and as Mrs. Darling gazed she felt that it had an oddly cocky appearance.</p>
 
-\[-\dfrac{\hslash^2}{2m} \, \dfrac{\mathrm{d}^2 \psi}{\mathrm{d} x^2}\]
+\[-\dfrac{\hslash^2}{2m} \, \dfrac{\mathrm{d}^2 \psi}{\mathrm{d} x^2} = -\dfrac{\hslash^2 k^2}{2m}\]
 
         
       </section>

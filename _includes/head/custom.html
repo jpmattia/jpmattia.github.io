@@ -1,5 +1,15 @@
 <!-- start custom head snippets -->
 
+<!-- for mathjax support -->
+{% if page.use-mathjax %}
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+<script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+{% endif %}
+
 <!-- insert favicons. use https://realfavicongenerator.net/ -->
 <link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
 <!-- end custom head snippets -->
