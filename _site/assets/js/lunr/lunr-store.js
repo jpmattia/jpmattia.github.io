@@ -4,4 +4,10 @@ var store = [{
         "tags": ["Post","restaurants"],
         "url": "/post/ode-to-mary-chungs/",
         "teaser": null
+      },{
+        "title": "The Curious Wonton",
+        "excerpt":"In a previous post, I revealed my brush with the Chinese Beverage Torture, which always brings to mind another story from my teenage years: The first time I ever ate Chinese food. My family’s food heritage comes with a large serving of pasta, and it took many years before I...","categories": ["Post"],
+        "tags": ["Post","restaurants"],
+        "url": "/post/the-curious-wonton/",
+        "teaser": null
       }]
