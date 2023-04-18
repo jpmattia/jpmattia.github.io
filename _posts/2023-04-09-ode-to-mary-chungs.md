@@ -9,14 +9,15 @@ tags:
 use-mathjax: true
 ---
 
-Once upon a time in Cambridge, Massachusetts, there was a terrific Chinese restaurant named Mary Chung's. The
-proprietor, Mary, helped to introduce Chinese food to many MIT students across several generations. For those students
-who did not have a wide selection of cuisine before going to college, Mary's was a gateway drug to the wide world of
-food and gastronomy. Students would go there to celebrate achievements, or to drown their sorrows, or most often just
-for tasty nourishment. As one of those students, I can tell you that Mary's fortified many of us sufficiently to face
-the rigors of MIT, or maybe it's more truthful to say that she fattened us up sufficiently to face the rigors of
-MIT. Most likely, it's both.
+Once upon a time in Cambridge, Massachusetts, just up the road from MIT, there was a terrific Chinese restaurant named
+Mary Chung's. The proprietor, Mary, helped to introduce Chinese food to many MIT students across several
+generations. For those students who did not have a wide selection of cuisine before going to college, Mary's was a
+gateway drug to the wide world of food and gastronomy. Students would go there to celebrate achievements, or to drown
+their sorrows, or most often just for tasty nourishment. As one of those students, I can tell you that Mary's fortified
+many of us sufficiently to face the rigors of MIT, or maybe it's more truthful to say that she fattened us up
+sufficiently to face the rigors of MIT. Most likely, it's both.
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/stainless steel teapot and empty water glasses200x200.png){: .align-left}
 Sadly at the end of 2022, it came time for Mary to embark on a well-earned retirement and so she closed the
 restaurant. Several of her fans started sharing tales about the restaurant across social media: The gatherings of
 friends, the best dishes, and stories of their first visits. It reminded me of my own first visit, which I still
@@ -52,3 +53,4 @@ revisit and collect them here.]*
 
 *Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia">Mastodon</a> or <a
 href="https://www.facebook.com/jpmattiaman">Facebook</a>.*
+
