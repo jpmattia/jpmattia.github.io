@@ -52,5 +52,5 @@ conversations.
 revisit and collect them here.]*
 
 *Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110217644381178650">Mastodon</a> or <a
-href="https://www.facebook.com/jpmattiaman">Facebook</a>.*
+href="https://www.facebook.com/photo/?fbid=10159386673582197&set=a.136419617196">Facebook</a>.*
 
