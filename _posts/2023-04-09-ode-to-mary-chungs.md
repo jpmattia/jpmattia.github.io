@@ -1,6 +1,7 @@
 ---
 title: "A Toast To Mary Chung's"
 excerpt: "Until December 2022, Cambridge, MA had one of the finest Chinese restaurants, which had a torturous approach to beverages."
+teaser: "/assets/images/2023/stainless steel teapot and empty water glasses.png"
 categories:
   - Post
 tags:

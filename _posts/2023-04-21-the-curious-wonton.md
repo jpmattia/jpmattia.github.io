@@ -1,6 +1,7 @@
 ---
 title: "The Curious Wonton"
 excerpt: "The first time I ever ate at a chinese restaurant."
+teaser: "/assets/images/2023/wonton soup with a white chinese spoon.png"
 categories:
   - Post
 tags:
