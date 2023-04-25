@@ -20,7 +20,7 @@ Growing up, I was not the adventurous foodie you all know and love, and there wa
 eat. This state of affairs began in early childhood and continued through puberty, right up until I started dating
 someone, who for the purpose of this story we will designate as The First Girlfriend, in order to protect the innocent.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/wonton soup with a white chinese spoon200x200.png){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/wonton soup with a white chinese spoon.png){: .align-left .size-200px}
 When The First Girlfriend suggested that we go out with two other couples to a Chinese restaurant, that sounded like a
 smashing idea, partly because it would ease the pressure of this whole dating thing and having to act as an entertaining
 person. The only problem was that I had never had Chinese food. As a normal guy with the usual bucket of insecurities

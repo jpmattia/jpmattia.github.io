@@ -11,8 +11,14 @@ var store = [{
         "url": "/post/the-curious-wonton/",
         "teaser": null
       },{
-        "title": "The Technologist Approach To Getting Reservations at Michelin-Starred Restaurants",
-        "excerpt":"The earlier restaurant stories served as mere appetizers to an actual discussion of restaurants. Rather than describe the spiraling path to how one begins spending inordinate amounts for great meals, or the self-rationalization and self-justification for an obviously irrational habit, let’s skip to the end of the story and discuss...","categories": ["Post"],
+        "title": "The Steamy Nature of Tapas",
+        "excerpt":"Reminiscing about restaurants in the past posts and spurred on by your quips and comments, another restaurant story came to mind with a slightly different flavor than the previous ones. On the surface, it’s a story about the unlikely combination of Spanish tapas and venture capitalists (VCs for short), but...","categories": ["Post"],
+        "tags": ["Post","restaurants"],
+        "url": "/post/salacious-story-about-tapas/",
+        "teaser": null
+      },{
+        "title": "An IT Consultant And The French Laundry",
+        "excerpt":"The earlier restaurant stories serve as mere appetizers to an actual discussion of restaurants. Rather than describe the spiraling path to how one begins spending inordinate amounts for great meals, or the self-rationalization and self-justification for an obviously irrational habit, let’s skip to the end of the story and discuss...","categories": ["Post"],
         "tags": ["Post","restaurants"],
         "url": "/post/michelin-restaurants/",
         "teaser": null
