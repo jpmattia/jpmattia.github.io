@@ -17,8 +17,8 @@ var store = [{
         "url": "/post/salacious-story-about-tapas/",
         "teaser": null
       },{
-        "title": "An IT Consultant And The French Laundry",
-        "excerpt":"The earlier restaurant stories serve as mere appetizers to an actual discussion of restaurants. Rather than describe the spiraling path to how one begins spending inordinate amounts for great meals, or the self-rationalization and self-justification for an obviously irrational habit, let’s skip to the end of the story and discuss...","categories": ["Post"],
+        "title": "The Church of the Michelin Star",
+        "excerpt":"A devout fololower of the michelin religion. There has not been a jihad nor a crusade from following this religion, but when I last checked, the French take their food very seriuosly, so perhaps it may yet occur in the future. The earlier restaurant stories serve as mere appetizers to...","categories": ["Post"],
         "tags": ["Post","restaurants"],
         "url": "/post/michelin-restaurants/",
         "teaser": null

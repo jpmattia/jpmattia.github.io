@@ -100,3 +100,14 @@ So that is the salaciousness I wanted to tell you about today: If you take $20 m
 company goals, feel free to go to topless bars on the company dime. You can even have weekends of getting arrested in
 Las Vegas provided that you're building a solid esprit-du-corps. As long as you don't make headlines in the Wall Street
 Journal, you'll barely raise anybody's eyebrows.
+
+<hr> 
+
+*[Note: These initial posts are a series of stories on restaurants. They were originally posted elsewhere, and I wanted to
+revisit and collect them here.]*
+
+*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110291142606815845">Mastodon</a> or <a
+href="https://www.facebook.com/jpmattiaman/posts/pfbid02Dg21B4WdsUDsh66gSH9uxvz2XhpGRz9gaQ22txzPHkNNavif5w1Nqh1Uzfo3vLKXl">Facebook</a>.*
+
+
+
