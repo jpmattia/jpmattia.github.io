@@ -54,6 +54,6 @@ wonton demonstrates great strength and prowess, and is a terrific way to impress
 *[Note: These initial posts are a series of stories on restaurants. They were originally posted elsewhere, and I wanted to
 revisit and collect them here.]*
 
-*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110238427803265584">Mastodon</a> or <a
+*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110251886672861080">Mastodon</a> or <a
 href="https://www.facebook.com/jpmattiaman/posts/pfbid021aLrevLf6YFAg3UJJXzgGAJBxNUVJD11ufawuSxnb8qb2D2qSinNwnmKmsvKu1SPl">Facebook</a>.*
 
