@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "The Church of the Michelin Star",
-        "excerpt":"A devout fololower of the michelin religion. There has not been a jihad nor a crusade from following this religion, but when I last checked, the French take their food very seriuosly, so perhaps it may yet occur in the future. The earlier restaurant stories serve as mere appetizers to...","categories": ["Post"],
+        "excerpt":"If you are a food lover, then you have probably sampled different cuisines from a wide swath of restaurants. Maybe you had a few favorate meals, which even led you to rank order your restaurants. If you also have the DNA trait of “anything worth doing is worth overdoing”, then...","categories": ["Post"],
         "tags": ["Post","restaurants"],
         "url": "/post/michelin-restaurants/",
         "teaser": null

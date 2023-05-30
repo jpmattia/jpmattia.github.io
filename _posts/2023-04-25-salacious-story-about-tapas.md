@@ -1,7 +1,7 @@
 ---
 title: "The Steamy Nature of Tapas"
 excerpt: "A Salacious Story about Spanish Tapas and Venture Capitalists"
-teaser: "/assets/images/2023/TableWithTapas.png"
+teaser: "/assets/images/2023/TableWithTapas.jpg"
 categories:
   - Post
 tags:
@@ -15,7 +15,7 @@ to mind with a slightly different flavor than the previous ones. On the surface,
 combination of Spanish tapas and venture capitalists (VCs for short), but really it's about the insane behavior of the
 internet bubble around the year 2000.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/TableWithTapas.png){: .align-left .size-200px}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/TableWithTapas.jpg){: .align-left .size-200px}
 Not everyone has heard of tapas, including some VCs as you'll soon find out, so if you fall into this camp: Tapas are
 much like Spanish appetizers, and you often make an entire meal out of them. They're quite tasty, but the important part
 for this story is how you say "tapas": It's a Spanish word, and a reasonable pronunciation is "taa puhz". Back then, you
