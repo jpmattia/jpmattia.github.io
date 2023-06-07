@@ -31,5 +31,5 @@ author_profile: false
 
 ### A new home for JP and Laura.
 
-{% include gallery id="layouts_gallery" caption="Photos from the listing of our new house, and we just hear that it was recorded by the county. Woohoo!" %}
+{% include gallery id="layouts_gallery" caption="Photos from the listing of our new house, and we just heard that it was recorded by the county. Woohoo!" %}
 
