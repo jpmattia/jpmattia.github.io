@@ -25,7 +25,7 @@ layouts_gallery:
     image_path: "assets/images/2023/NewHome/zz2.webp"
   - url: "assets/images/2023/NewHome/zz4.webp"
     image_path: "assets/images/2023/NewHome/zz4.webp"
-last_modified_at: 2023-04-09T23:59:26-04:00
+last_modified_at: 2023-06-07T11:59:26-04:00
 author_profile: false
 ---
 
