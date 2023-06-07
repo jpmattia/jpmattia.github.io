@@ -2,7 +2,7 @@
 permalink: /newhome
 title: " "
 excerpt: "JP and Laura buy a home."
-teaser: "/assets/images/2023/NewHome/zz4.webp"
+teaser: "/assets/images/2023/NewHome/8.webp"
 classes: wide
 layouts_gallery:
   - url: "assets/images/2023/NewHome/1.webp"
