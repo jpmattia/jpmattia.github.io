@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: " "
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
+excerpt: "github pages from JP Mattia."
 layouts_gallery:
   - url: /assets/images/01_paramount_color.jpg
     image_path: /assets/images/01_paramount_color.jpg
