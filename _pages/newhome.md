@@ -3,6 +3,7 @@ permalink: /newhome
 title: " "
 excerpt: "JP and Laura buy a home."
 teaser: "/assets/images/2023/NewHome/zz4.webp"
+classes: wide
 layouts_gallery:
   - url: "assets/images/2023/NewHome/3.webp"
     image_path: "assets/images/2023/NewHome/3.webp"
@@ -25,6 +26,7 @@ layouts_gallery:
   - url: "assets/images/2023/NewHome/zz4.webp"
     image_path: "assets/images/2023/NewHome/zz4.webp"
 last_modified_at: 2023-04-09T23:59:26-04:00
+author_profile: false
 ---
 
 ### A new home for JP and Laura.
