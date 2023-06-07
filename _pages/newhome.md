@@ -25,10 +25,11 @@ layouts_gallery:
     image_path: "assets/images/2023/NewHome/zz2.webp"
   - url: "assets/images/2023/NewHome/zz4.webp"
     image_path: "assets/images/2023/NewHome/zz4.webp"
-last_modified_at: 2023-06-07T11:59:26-04:00
+last_modified_at: 2023-06-07T12:02:26-04:00
 author_profile: false
 ---
 
 ### A new home for JP and Laura.
 
-{% include gallery id="layouts_gallery" caption="Photos from the listing of our new house." %}
+{% include gallery id="layouts_gallery" caption="Photos from the listing of our new house, and we just hear that it was recorded by the county. Woohoo!" %}
+
