@@ -5,8 +5,6 @@ excerpt: "JP and Laura buy a home."
 teaser: "/assets/images/2023/NewHome/8.webp"
 classes: wide
 layouts_gallery:
-  - url: "assets/images/2023/NewHome/1.webp"
-    image_path: "assets/images/2023/NewHome/1.webp"
   - url: "assets/images/2023/NewHome/8.webp"
     image_path: "assets/images/2023/NewHome/8.webp"
   - url: "assets/images/2023/NewHome/9.webp"
@@ -25,6 +23,8 @@ layouts_gallery:
     image_path: "assets/images/2023/NewHome/zz2.webp"
   - url: "assets/images/2023/NewHome/zz4.webp"
     image_path: "assets/images/2023/NewHome/zz4.webp"
+  - url: "assets/images/2023/NewHome/1.webp"
+    image_path: "assets/images/2023/NewHome/1.webp"
 last_modified_at: 2023-06-07T12:02:26-04:00
 author_profile: false
 ---
