@@ -1,6 +1,6 @@
 ---
 title: "The Church of the Michelin Star"
-excerpt: ""
+excerpt: "The IT Consultant, The French Laundry, and My Favorate Meal"
 categories:
   - Post
 tags:
@@ -16,7 +16,7 @@ restaurants, and since anything worth doing is worth overdoing, you found yourse
 restaurant in the world?
 
 It turns out I have all of the above traits with a double dose of anything-worth-doing-is-worth-overdoing, so this is
-the first of two posts on how I went about answering that question. Naturally, everyone has different tastes, which
+the first of two posts on how I went about answering the question. Naturally, everyone has different tastes and that
 will lead them to different paths with different answers. My path led me to the Church of the Michelin Star.
 
 As mentioned [elsewhere]({{ site.baseurl }}{% post_url 2023-04-21-the-curious-wonton %}), it took me until high school
@@ -26,41 +26,41 @@ backgrounds organizing trips to many different types of restaurants.  Unfortunat
 usually comes with financial limitations; the best restaurants tended to be the most expensive, so those were saved for
 special occasions.
 
-Sorting through restaurants to find the best ones was not easy task in the pre-internet world, and broadly, there were two
+Sorting through restaurants to find the best ones was not easy in the pre-internet world, and broadly, there were two
 approaches. The first was to eat at as many restaurants as possible. This approach was a lot of fun, especially with the
 metabolism of a twenty-year old who burns an insane number of calories on classes or martial arts or pretty much
 anything that a twenty-year old does.  Unfortunately, a quick calculation involving the number of restaurants in
-existence and the size of the average student's wallet shows the impracticality of sampling anything more than a small
+existence and the size of the average student's wallet shows the impracticality of exploring anything more than a small
 fraction of Bostonian eateries.  The second approach was to descend upon the campus bookstore in search of restaurant
-guides, and compile a list of the best restaurants. It's probably obvious that no guides were ever actually purchased,
+guides, and compile a list of the best restaurants. It's probably obvious that no guides were ever actually purchased
 since we were impoverished students saving money for the actual meal.
 
-Trying the first few of the restaurants on that list felt like a discovery of new lands, and they were a feast for the
+The first few of the restaurants on that list felt like a discovery of new lands, and they were a feast for the
 senses. It was an awakening of tastes, aromas, and textures. It turns out that I was lucky to start as a young guy;
-students of biology will tell you that the taste and olfactory senses peak in the twenties. Of course, the experience
-was more than just great food: The restaurant staff play a large role, almost as a performance. I had found the pinnacle
-of civilization and was fortunate that my choice of college put me so close to it.
+students of biology will tell you that the olfactory and taste senses peak in the twenties. Of course, the experience
+was more than just great food: The restaurant staff play a large role, almost as a performance. I belived had found the
+pinnacle of civilization and was fortunate that my choice of college put me so close to it.
 
 Then a funny thing happened during my senior year. A girlfriend and I decided to take a trip to Europe during MIT's
 January term. She had a colorful uncle who we met in Geneva, who we will name Henry for this story. Henry had finished
 grad school in the US in the early 70s, went off to Europe, and never really returned. As near as I could tell, he just
 stayed to become a bon vivant, spending a lot of time studying good food and wine and, well, life. I got along
-inexplicably well with this full-fledged adult, even though I was a mere kid on his first European tour. Henry was an
+inexplicably well with this full-fledged adult, despite feeling like a kid on his first European tour.  Henry was an
 excellent host to a couple of college students, and he decided to take our eductation into his own hands: He told us
 with some gravity that he was going to bring us to a Michelin one-star restaurant.
 
 The voice inside my head had a reaction: One star? So what? I did not know what a Michelin one-star restaurant implied
-when I walked in, but it turned out to be the nicest dining experience I had ever had at that point. I was stunned; it
-was a revelation that people would dedicate their lives to creating the world's greatest meals, and could transform food
-into such a high art form.
+when I walked in, but it turned out to be the nicest dining experience I had ever had at that point. I was, frankly,
+stunned; it was a revelation that people would dedicate their lives to creating the world's greatest meals, and could
+transform food into such a high art form.
 
-It was also an embarassing revelation that the campus bookstore did not have the most worldly collection of books
+It was also something of a revelation that the campus bookstore did not have the most worldly collection of books
 outside of academic subjects.  Most folks have heard of the Michelin Tire Company, which is one of the oldest tire
-corporations and is based in France, and it was pretty much the last source that I would have sought out for advice
+corporations and is based in France, but it was pretty much the last company that I would have sought out for advice
 about restaurants during college.  Michelin was first published its eponymous guide in 1926, and it has an interesting
 history with restaurants.  Early on in automobile history, many companies published travel guides as marketing to
 encourage automobile travel, and Michelin took the approach of including reviews of hotels and restaurants: The more
-mileage that is put on their tires, the more tires they sell.
+mileage that is put on the tires, the more tires they sell.
 
 Eventually the Michelin marketing took on a life of its own. The best restaurant reviews were also awarded "Michelin
 Stars", and their graphical star is shown here. Frankly, when you consider gluttony is still one of the seven deadly
