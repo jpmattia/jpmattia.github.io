@@ -107,3 +107,6 @@ earning an honest paycheck, one that was sufficient for tithing in the Church of
 
 <hr> 
 [^1]: French for "tip". Usually the *service* is included in the bill, but customers sometimes leave extra when the staff have gone above and beyond.
+
+
+*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110714051723626090">Mastodon</a> or <a href="https://www.facebook.com/jpmattiaman/posts/pfbid09pcidSGgJ7nMHVkdQD8fuytbtz4JBNT33ziKsNuNCJTzRdft1K6e2DiT94zY6Sy2l">Facebook</a>.*
