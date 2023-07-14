@@ -1,6 +1,6 @@
 ---
 title: "The Church of the Michelin Star"
-excerpt: "Spilling the wine in the Church of the Michelin Star"
+excerpt: "Spilling wine in the finest restaurants."
 teaser: "/assets/images/2023/A artistic table at a Michelin-starred restaurant.png"
 categories:
   - Post
