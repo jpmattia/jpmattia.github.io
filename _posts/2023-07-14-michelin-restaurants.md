@@ -27,9 +27,11 @@ backgrounds organizing trips to many different types of restaurants.  Unfortunat
 usually comes with financial limitations; the best restaurants tended to be the most expensive, so those were saved for
 special occasions.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2023/A artistic table at a Michelin-starred restaurant.png){: .align-left .size-200px}
-Finding the best restaurants was not easy in the pre-internet world, and broadly, there were two approaches.  The first
-was to eat at as many restaurants as possible. This approach was a lot of fun, especially with the metabolism of a
+![image-left]({{ site.url }}{{ site.baseurl }}
+/assets/images/2023/A artistic table at a Michelin-starred restaurant.png){: .align-left .size-200px} 
+
+Finding Boston's best restaurants was not easy in the pre-internet world, and broadly, there were two approaches.  The
+first was to eat at as many restaurants as possible. This approach was a lot of fun, especially with the metabolism of a
 twenty-year old who burns an insane number of calories on classes or martial arts or pretty much anything that a
 twenty-year old does.  Unfortunately, a quick calculation involving the number of restaurants in existence and the size
 of the average student's wallet revealed the impracticality of exploring more than a small fraction of Bostonian
@@ -37,11 +39,11 @@ eateries.  The second approach was to descend upon the campus bookstore in searc
 list of the best restaurants. It's probably obvious that no guides were ever actually purchased since we were
 impoverished students saving money for the actual meal.
 
-The first few of the restaurants on that list felt like a discovery of new lands, and they were a feast for the
-senses, with an awakening of tastes, aromas, and textures. It turns out that I was lucky to start as a young guy;
-students of biology will tell you that the olfactory and taste senses achieve their peaks in the twenties. Of course,
-the experience was more than just great food: The restaurant staff play a large role, almost as a performance. I believed
-I had found the pinnacle of civilization and was fortunate that my choice of college put me so close to it.
+The first few of the restaurants on that list felt like a discovery of new lands, and they were a feast for the senses,
+with an awakening of tastes, aromas, and textures. It turns out that I was lucky to start as a young guy; students of
+biology will tell you that the olfactory and taste senses achieve their peaks in the twenties. Of course, the experience
+was more than just great food: The restaurant staff play a large role, almost as a performance. I believed I had found
+the pinnacle of civilization and was fortunate that my choice of college put me so close to it.
 
 Then a funny thing happened during my senior year. A girlfriend and I decided to take a trip to Europe during MIT's
 January term. She had a colorful uncle who we met in Geneva, who we will name Henry for this story. Henry had finished
@@ -56,7 +58,7 @@ when I walked in, but it turned out to be the nicest dining experience I had eve
 stunned; it was a revelation that people would dedicate their lives to creating the world's greatest meals, and could
 transform food into such a high art form.
 
-The revelation finally hit me that the campus bookstore was not the most worldly source of information for restaurants.
+It also finally dawned on me that the campus bookstore was not the most worldly source of information for restaurants.
 Most folks have heard of the Michelin Tire Company, which is one of the oldest tire corporations and is based in France,
 but it was pretty much the last company that I would have sought out for advice about restaurants during college.  Early
 in automobile history, companies published travel guides as marketing to encourage automobile travel, and Michelin took
@@ -69,7 +71,7 @@ src="/assets/images/2023/MichelinStar.svg" alt="" width="15" style="position: re
 when you consider gluttony is still one of the seven deadly sins, a pentagram would have been more apt, but for reasons
 known only to a tire company, a rounded six-point star is their mark of approval. In any case, unlike modern internet
 ratings, not all restaurants were given a star rating; the guide will tell you that only those who "consistently deliver
-an outstanding meal" were awarded even a single star. The largest number ever awarded was three stars, and if you are a
+an outstanding meal" were awarded even a single star. The maximum number ever awarded was three stars, and if you are a
 foodie those places were worthy of a special pilgrimage. At the time of my first visit to a one star in 1986, there were
 574 restaurants with one star, 84 with two stars, and 20 with three stars.  The ratings were carried out by a 16 person
 Michelin panel, who we can safely assume have never been given accolades by doctors for their cholestoral readings. As
