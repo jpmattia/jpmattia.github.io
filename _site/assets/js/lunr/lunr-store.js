@@ -23,9 +23,15 @@ var store = [{
         "url": "/post/michelin-restaurants/",
         "teaser": null
       },{
-        "title": "The Church of the Michelin Star",
-        "excerpt":"Then during a business trip, I got a call from my wife Laura: Did I think booking a bike trip through the Loire Valley would be a good idea? Bike through the grand chateaux during the day, eat at Michelin-starred restaurants for dinner, and stay at a chateau for the...","categories": ["Post"],
+        "title": "The IT Consultant, The French Laundry, and My Favorate Meal",
+        "excerpt":"In the first part of this post, I described my introduction to Michelin-starred restaurants. Because these were not the cheapest or easiest to reach restaurants, it took about a decade after my introduction before exploring them in earnest. Most of that time was spent working hard at MIT, ensuring a...","categories": ["Post"],
         "tags": ["Post","restaurants"],
         "url": "/post/michelin-restaurants2/",
+        "teaser": null
+      },{
+        "title": "The IT Consultant, The French Laundry, and My Favorate Meal",
+        "excerpt":"After the last essay, you have a pretty good idea of how I developed a high-end restaurant habit as an impoverished student. After quite an extended stay at MIT, I finally graduated in 1996 and then landed a job. Not only did I get a bump in paycheck from having...","categories": ["Post"],
+        "tags": ["Post","restaurants"],
+        "url": "/post/IT-consultant-French-Laundry/",
         "teaser": null
       }]
