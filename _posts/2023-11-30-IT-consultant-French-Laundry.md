@@ -9,103 +9,68 @@ tags:
 use-mathjax: true
 ---
 
-After the [last essay]({{ site.baseurl }}{% post_url 2023-07-14-michelin-restaurants %}), you have a pretty good idea of
-how I developed a high-end restaurant habit as an impoverished student. After quite an extended stay at MIT, I graduated
-in 1996 and then landed a job. Not only did I get a bump in paycheck from having just completed a PhD, but fortuitously
-the internet bubble was just beginning. Moreover, my soon-to-be-wife had her own PhD and her own paybump. Mind you, the
-money wasn't large when compared to some of the spectacular stories that would emerge later in the internet bubble, but
-having just come out of grad school, it felt like all the money in the world.
+This post describes how hiring the right IT guy turned out to be the best gastronomic decision of my life. I described
+how I developed a high-end restaurant habit as an impoverished student in the [last post]({{ site.baseurl }}{% post_url
+2023-07-14-michelin-restaurants %}), but once Laura and I graduated with our PhDs, our salaries felt lavish and led to
+outrageous sums being spent on travel and dining.  Mind you, the money wasn't large when compared to some of the
+spectacular stories that would see later in the internet bubble, but having just come out of grad school and a penurious
+livestyle, it felt like all the money in the world.
 
-Oddly, Laura and I had trouble finding time to spend this money. There is a curious pattern whenever I start working for
-a big company: Something about my personality causes employers to send me far away on business travel. (I'll leave the reader
-to decide whether 
-My trips are
-often deemed to be a business success, which then reinforces the pattern of sending me far away on business travel.  It
-tutns out that I like traveling in general, but during my first job I spent 3 of 4 weeks in Dallas, and while that was
-fun, it's really not the optimal path for couplehood.  However during one business trip, I got a call from Laura: Did I
-think booking a bike trip through the Loire Valley would be a good idea? Bike through the grand chateaux during the day,
-eat at Michelin-starred restaurants for dinner, and stay at a chateau for the night?
-
-This began a spiraling path to spending inordinate amounts for great travel and dining. I've since lost track of all the
-Michelin star meals, and I wish I'd kept a record, but my post-prandial mood after many of those experiences was
-altogether too happy and satisfied and living in the moment to feel any need to log details for posterity. So instead,
-let me tell you about two of the greatest restaurants I've ever had the pleasure of experiencing.
-
-Around 2001, Laura and I moved to Silicon Valley to build a startup in optical networking, as I mentioned in a previous
-essay (link). Our company was making some of the fastest communication equipment in existence, and those designs
-required a large number of computers, and those computers required top-notch IT support. All of the best IT graybeards
-that we knew were from the wrong coast, and we were determined to find someone good in order to avoid the inevitable
-situation where a design engineer decides to burn his or her time on taking over IT "to make sure it's done right".[^1]
-
-because I knew that we would end up
-burning a valuable circuit designer on IT if we didn't find one, since circuit designs guys are quite opinionated as to
-how their computers ought to run.  [In many circuit-design operations I had been a part of during the 80s and 90s, there
-was one circuit engineer that demanded the computers run a certain way, and would then become the defacto IT support,
-which was really a sign that excellent IT was very rare in that age.  quite rare. I was determined not to spend the
-company's resources by having rare IT position be defacto taken by an even rarer excellent IC designer position.]
-
-
-As I mentioned in a previous essay (link) my wife Laura and I moved to Silicon Valley in the year 2000 to do a startup
-in optical networking. Our company was making some of the fastest commercial silicon chips
-in existence, and those designs required a large number of computers, and those computers required top-notch IT support.
-In the 80s and 90s, these excellent IT graybeards were quite rare, and all of the ones that I knew were on the wrong coast.
-I was determined to find someone good, because I knew that we would end up burning a valuable circuit designer on IT if 
-we didn't find one, since circuit designs guys are quite opinionated as to how their computers ought to run.
-[In many circuit-design operations I had been a part of during
-the 80s and 90s, there was one circuit engineer that demanded the computers run a certain way, and would then become 
-the defacto IT support, which was really a sign that excellent IT was very rare in that age.
-quite rare. I was determined not to spend the company's resources by having rare IT position be defacto taken by 
-an even rarer excellent IC designer position.]
-
-Fortunately, one of the excellent circuit guys had worked with an IT person at Stanford named Kevin, and the circuit guy
-told me that we should go get him because this was the right guy.
+We had moved to Silicon Valley to build a startup in optical networking in mid-2000, and our small company was making
+some of the fastest communication equipment in existence.  Those designs required a large number of computers, and those
+computers required top-notch IT support. All of the best IT graybeards that we personally knew were on the wrong coast,
+and the internet bubble had vacuumed up vast amount of talent on the west coast, leaving us with a big problem in
+locating the best IT people.  We were determined to find someone good in order to avoid the inevitable situation where a
+design engineer decides to burn his or her time on taking over IT "to make sure it's done right". (Engineers can be
+quite opinionated as to how their computers ought to run, to the point that they would take over the IT job, which
+leaves you with the problem of back-filling the even rarer engineer's talent.)  Fortunately for us, one of the
+circuit-design guys stepped in and introduced us to an IT guy from Stanford named Kevin. The circuit guy told me that we
+should go get him because this was the right guy.
 
 I was so desparate that I didn't really question what that meant, but the engineer was so top-notch that I didn't dig
-any deeper and took the recommendation at face value. This decision turned out to be one of the best decisions.
- choosing somebody external to managge our computers turned out to be one of the best gastronomical decisions of my life.
+any deeper and just acted on the recommendation. Sure enough, Kevin knew his stuff, and our design systems ran like a 
+charm even though he was only part-time.
 
-Late one night while a few of us were hacking on the machines, Kevin mentioned that he and I know a number of the same
-people and rattled off a bunch of my MIT friends.
+It was a bit odd though: Kevin tended to work off-hours. One night while a number of us were working late, Kevin came
+up to me and mentioned that he was a few years behind me at MIT and we have a number of friends in common. I blurted out
+that he must have graduated and then took an IT job at Stanford. "Well, not exactly. I'm a grad student at Stanford."
+I was shocked that a grad student would have time to work for us, even part time, and asked why he was doing it. It turns 
+out that Kevin had a serious food and wine habit and needed money to support it.
 
-[doesn't work as conversation, rewrite narratively.]
-JP: "By the way, how do you know them?"
+I laughed, because Kevin humbled me by proving you did not have to abstain from great food while in grad school, but
+what he said next really caught my attention: "By the way, if you ever want to go to The French Laundry, let me know a
+couple of months ahead of time and I'll arrange it."  This offer sounded crazy.  The French Laundry is a Michelin
+three-star restaurnt (there weren't many in California) and half of Silicon Valley was trying to get a reservation. In
+fact, getting reservations worked like radio call-in shows for concert tickets: The call-in started at 10am for the date
+two months in the future, and they stopped taking calls once the seating for that date was filled.  So Kevin claiming
+that he could just make reservations piqued my interest but mostly sounded like a wild boast. Of course, Laura and I
+could not say no, and sure enough the reservations materialized. I was dumbfounded and needed answers.
 
-Kevin: "I did my undergrad work at MIT and graduated around the same time."
+Kevin volunteered his dark secret for getting in, which was good because otherwise I was going to hire hit men to beat
+it out of him: He had reverse-engineered their phone system and how they did the reservations. So here I was, having
+worked Bell Labs, the research arm of the former American telephone monopoly, and currently working at a hot startup
+right in the middle of the telecommunications industry, and I had totally been one-upped for applying that esoteric
+knowledge to something of great use. I laughed for quite some time.
 
-JP: "I see. And then you landed in IT at Stanford?"
-
-Kevin: "Well no, I'm actually a grad student."
-
-JP: "Wait, really? And you're working IT for us on the side?"
-
-Kevin: "Yes. You see, it turns out I have a serious food and wine habit and I have to fund it. By the way, if you ever
-want to go to French Laundry, let me know a couple of months ahead of time and I'll arrange it."
-
-First, Kevin humbled me by proving you did not have to abstain from great food while in grad school. Second, and more
-importantly, I was shocked that he would make the offer of getting into The French Laundry like that: The French Laundry is a 
-Michelin three-star restaurnt (there aren't that many in California) and half of Silicon
-Valley was trying to get a reservation. In fact, getting reservations worked like radio call-in shows for concert tickets:
-you called in at 10am, they took the first 30 or so callers (however many they can seat) and those reservations were for
-two months in the future.
-
-So Kevin claiming that he could just make reservations piqued my interest. Laura and I could not say no, and I was
-curious whether the reservations would materialize, so we joined Kevin and three other MIT alums and made plans to
-travel to Yountsville, CA.
-
-The meal was absolutely exquisite, and there are already much more poetic descriptions of meals at The French Laundry,
-but the culmination of the experience occured during dessert. There appeared before each of us a miniture chocolate
-torte, mostly unardorned, artfully placed on a white dish. Kevin, who had already had this dessert at French Laundry once 
-before asked us if it reminded us of anything. I said it did, but I couldn't place why it looked familiar. At that point
-Kevin blurted out, "It looks like a Ding Dong." (These were called Ring Dings on the east coast in the 70s.) 
+About two months later, we joined Kevin and three other MIT friends on our pilgramage to The French Laundry in
+Yountsville, CA.  The meal was absolutely exquisite.  There are already much more poetic descriptions of meals at The
+French Laundry, but the culmination of the experience occured during dessert. There appeared before each of us a
+miniture chocolate torte, mostly unardorned, artfully placed on a white dish. Kevin, who had already had this dessert at
+The French Laundry once before asked us if it reminded us of anything. I said it did, but I couldn't place why it looked
+familiar. At that point Kevin blurted out, "It looks like a Ding Dong." (These are also called Ring Dings or Big Wheels
+depending on the manufacturer and which decade you were a kid. God help you if you're an adult and still eating them.)
 
 Without missing a beat, the waiter continued, "Or as we prefer to call it, a palet du chocolate, a flouress chocolate
 torte."  The waiter's delivery was as perfect as any comedian I've ever witnessed. As I thought about it later, he was a
 striking example of The Perfect Waiter: He joined in what is, in truth, a celebration of great food witout even [being
-insulted] or pomposity at our lowbrow characterization of this magnificent pâtisserie. It was the most exquisite
-chocolate dessert in life, or at least so I'm told. In one of those unfortunate choices in life, I excused myself from
-the meal for a trip to the men's room. While my back was turned, my chocolaholic wife did willfully and callously
-consume not only her torte, but mine as well. C'est une travestie, absolutement! It's a good thing that she's a
-knockout, or I would have had excellent grounds for divorce.
+insulted] or pomposity at our lowbrow characterization of this magnificent pâtisserie. 
+
+It was the most exquisite chocolate dessert in life, or at least so I'm told.
+
+In one of those unfortunate choices in life, I excused myself from the meal for a trip to the men's room. While my back
+was turned, my chocolaholic wife did willfully and callously consume not only her torte, but mine as well. C'est une
+travestie, absolutement! It's a good thing that my wife is a knockout, or I would have had excellent grounds for
+divorce.
 
 Surprisingly, despite The French Laundry having served us a perfect meal with a perfect dessert (although they needed
 to beef up their security detail to prevent future patron-on-patron crime), it did not qualify as the best meal of
@@ -246,4 +211,4 @@ Haute cuisine features pleasurable and harmonious flavors, with balanced seasoni
 
 
 <hr> 
-[^1]: Engineers have a lot of ideas about how IT support *should* be done and will take over the job
+[^2]: Engineers have a lot of ideas about how IT support *should* be done and will not hesitate take over the job, which then leaves you with the problem of back-filling the engineer's job.
