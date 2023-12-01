@@ -24,14 +24,20 @@ var store = [{
         "teaser": null
       },{
         "title": "The IT Consultant, The French Laundry, and My Favorate Meal",
+        "excerpt":"In the first part of this post, I described my introduction to Michelin-starred restaurants. Because these were not the cheapest or easiest to reach restaurants, it took about a decade after my introduction before exploring them in earnest. Most of that time was spent working hard at MIT, ensuring a...","categories": ["Post"],
+        "tags": ["Post","restaurants"],
+        "url": "/post/michelin-restaurants2/",
+        "teaser": null
+      },{
+        "title": "The IT Consultant, The French Laundry, and My Favorate Meal",
         "excerpt":"This post describes how hiring the right IT guy turned out to be the best gastronomic decision of my life. I described how I developed a high-end restaurant habit as an impoverished student in the last post, but once Laura and I graduated with our PhDs, our salaries felt lavish...","categories": ["Post"],
         "tags": ["Post","restaurants"],
         "url": "/post/IT-consultant-French-Laundry/",
         "teaser": null
       },{
-        "title": "The IT Consultant, The French Laundry, and My Favorate Meal",
-        "excerpt":"In the first part of this post, I described my introduction to Michelin-starred restaurants. Because these were not the cheapest or easiest to reach restaurants, it took about a decade after my introduction before exploring them in earnest. Most of that time was spent working hard at MIT, ensuring a...","categories": ["Post"],
+        "title": "My Favorate Meal",
+        "excerpt":"Laura and I were cofounders in an internet startup that began in the year 2000, and it came time to raise more money in the summer of 2001. The internet bubble had burst, so raising money was more than a little stressful, but eventually we achieved a handshake and termsheet...","categories": ["Post"],
         "tags": ["Post","restaurants"],
-        "url": "/post/michelin-restaurants2/",
+        "url": "/post/The-Best-Meal/",
         "teaser": null
       }]

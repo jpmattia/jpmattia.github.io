@@ -5,3 +5,9 @@
 bundle exec jekyll serve
 #+END_EXAMPLE
 
+or to include future posts
+
+#+BEGIN_EXAMPLE
+bundle exec jekyll serve --future
+#+END_EXAMPLE
+
