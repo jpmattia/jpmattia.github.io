@@ -1,0 +1,572 @@
+<!doctype html>
+<!--
+  Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+  Free for personal and commercial use under the MIT license
+  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
+-->
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="utf-8">
+
+<!-- begin _includes/seo.html --><title>Racing Post Mortem -</title>
+<meta name="description" content="If I were any healthier, I’d be dead.">
+
+
+  <meta name="author" content="JP Mattia">
+  
+  <meta property="article:author" content="JP Mattia">
+  
+
+
+<meta property="og:type" content="article">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="">
+<meta property="og:title" content="Racing Post Mortem">
+<meta property="og:url" content="http://localhost:4000/post/Racing-Post-Mortem/">
+
+
+  <meta property="og:description" content="If I were any healthier, I’d be dead.">
+
+
+
+  <meta property="og:image" content="http://localhost:4000/assets/images/2024/RunForTheRanch2024_StartLine.png">
+
+
+
+  <meta name="twitter:site" content="@jpmattia">
+  <meta name="twitter:title" content="Racing Post Mortem">
+  <meta name="twitter:description" content="If I were any healthier, I’d be dead.">
+  <meta name="twitter:url" content="http://localhost:4000/post/Racing-Post-Mortem/">
+
+  
+    <meta name="twitter:card" content="summary">
+    
+      <meta name="twitter:image" content="http://localhost:4000/assets/images/2024/RunForTheRanch2024_StartLine.png">
+    
+  
+
+  
+
+
+
+  <meta property="article:published_time" content="2024-07-28T00:00:00-04:00">
+
+
+
+
+
+  
+
+  
+
+
+<link rel="canonical" href="http://localhost:4000/post/Racing-Post-Mortem/">
+
+
+
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "JP Mattia",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
+
+
+
+
+
+
+
+<!-- end _includes/seo.html -->
+
+
+
+  <link href="/feed.xml" type="application/atom+xml" rel="alternate" title=" Feed">
+
+
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="/assets/css/main.css">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+
+
+    <!-- start custom head snippets -->
+
+<!-- for mathjax support -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+      TeX: { equationNumbers: { autoNumber: "AMS" } }
+  });
+</script>
+<script type="text/javascript" async src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+
+<!-- insert favicons. use https://realfavicongenerator.net/ -->
+<link rel="icon" type="image/x-icon" href="/assets/images/favicon.ico">
+<!-- end custom head snippets -->
+
+  </head>
+
+  <body class="layout--single">
+    <!--
+ This did not seem useful, so we commented it out.
+
+<nav class="skip-links">
+  <ul>
+    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
+    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
+    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
+  </ul>
+</nav>
+-->
+
+    
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+        <a class="site-title" href="/">
+          
+          
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="/">Home</a>
+            </li><li class="masthead__menu-item">
+              <a href="/about">About</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+
+
+    <div class="initial-content">
+      
+
+
+
+
+
+<div id="main" role="main">
+  
+  <div class="sidebar sticky">
+  
+
+
+<div itemscope itemtype="https://schema.org/Person" class="h-card">
+
+  
+    <div class="author__avatar">
+      <a href="http://localhost:4000/">
+        <img src="/assets/images/bio-photo.jpg" alt="JP Mattia" itemprop="image" class="u-photo">
+      </a>
+    </div>
+  
+
+  <div class="author__content">
+    <h3 class="author__name p-name" itemprop="name">
+      <a class="u-url" rel="me" href="http://localhost:4000/" itemprop="url">JP Mattia</a>
+    </h3>
+    
+      <div class="author__bio p-note" itemprop="description">
+        <p>A journey through science, technology, startups, and life:<br />My collection of tales, containing varying degrees of sanity.</p>
+
+      </div>
+    
+  </div>
+
+  <div class="author__urls-wrapper">
+    <button class="btn btn--inverse">Follow</button>
+    <ul class="author__urls social-icons">
+      
+        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
+          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name" class="p-locality">Los Angeles, California</span>
+        </li>
+      
+
+      
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      
+
+      <!--
+  <li>
+    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer me">
+      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
+    </a>
+  </li>
+-->
+    </ul>
+  </div>
+</div>
+
+  
+  </div>
+
+
+
+  <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <meta itemprop="headline" content="Racing Post Mortem">
+    <meta itemprop="description" content="If I were any healthier, I’d be dead.">
+    <meta itemprop="datePublished" content="2024-07-28T00:00:00-04:00">
+    
+
+    <div class="page__inner-wrap">
+      
+        <header>
+          <h2 id="page-title" class="page__title p-name" itemprop="headline">
+            <a href="http://localhost:4000/post/Racing-Post-Mortem/" class="u-url" itemprop="url">Racing Post Mortem
+</a>
+          </h2>
+          
+
+
+        </header>
+      
+
+      <section class="page__content e-content" itemprop="text">
+        
+        <p>In a quest to maintain fitness, I signed up for “Run For The Ranch 2024”, a series of three 5K races at Paramount
+Ranch. Paramount Ranch is now part of the National Park Service, but at one time served as the backlot for Paramount
+Films and had semi-permanent facades for filming scenes in the old west. Sadly in 2018, most of the buildings burned
+down in the Woosley fire. The races are a way to raise money for replacing the buildings with updated fire-proof
+construction. Since the wife and I hike there almost daily, I signed up for all three races.</p>
+
+<p><img src="http://localhost:4000/assets/images/2024/RunForTheRanch2024_StartLine.png" alt="image-left" class="align-left size-200px" /></p>
+
+<p>I wanted to collect my race results in one place for future reference, and I also got a bunch of questions from friends
+about the race details, so I’ll give you the bottom line first: There was a reason the US Olympic committee didn’t
+bother sending me to the Paris olympics this week. I’ve never been a particularly fast runner. While staying active is a
+pretty big priority for me to increase longevity<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, I almost never look too critically at my running times, so after the
+races I wanted to look in some detail at what my results were.</p>
+
+<p>Here are the results by the numbers</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Race date</th>
+      <th>minutes/mile</th>
+      <th>Rank in age group</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>July 11, 2024       </td>
+      <td>8:38</td>
+      <td>3rd</td>
+    </tr>
+    <tr>
+      <td>July 18, 2024       </td>
+      <td>8:31</td>
+      <td>2nd</td>
+    </tr>
+    <tr>
+      <td>July 25, 2024       </td>
+      <td>8:40</td>
+      <td>3rd</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The runner who placed first on the July 11 and 25 races failed to show up for the July 18 race, which is why I placed
+second. So I think the moral of the story is: If I want to win races, I need to focus harder on eliminating the
+competitation before they appear at the starting line.</p>
+
+<p>I’ll also note that temperatures were in the mid-to-high 80s for all three races. Running in 80 degree temps sounds
+terrible until you think about the people running the Badwater 135 ultramarathon, which occurred earlier a few days ago.
+The typical starting temperature is 115 degrees, proving the running adage: No matter how bad it seems, somebody else
+always has it worse.</p>
+
+<p>Here are a few other items I wanted to collect in one place.</p>
+<ul>
+  <li>The two 60 yo faster than me were in the 7:30 min/mile range.</li>
+  <li>There is a 100 ft hill right in the middle of the race, which practically killed me. Hill profile in the pics below.</li>
+  <li>Apple fitness stats:
+    <ul>
+      <li>VO2Max: 51.3</li>
+      <li>Max HR: 166</li>
+      <li>Resting HR: 43</li>
+      <li>HR variability: 43ms</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Lastly, some pics to help me remember the pain:</p>
+
+<figure class="third ">
+  
+    
+      <a href="/assets/images/2024/RunForTheRanch2024_StartLine.png">
+          <img src="/assets/images/2024/RunForTheRanch2024_StartLine.png" alt="" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/2024/RunForTheRanch2024_MidRace.png">
+          <img src="/assets/images/2024/RunForTheRanch2024_MidRace.png" alt="" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/2024/RunForTheRanch_HillProfile.jpeg">
+          <img src="/assets/images/2024/RunForTheRanch_HillProfile.jpeg" alt="" />
+      </a>
+    
+  
+    
+      <a href="/assets/images/2024/RunForTheRanch2023_MidRace.jpg">
+          <img src="/assets/images/2024/RunForTheRanch2023_MidRace.jpg" alt="" />
+      </a>
+    
+  
+  
+</figure>
+
+<hr />
+
+<p><em>Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110251886672861080">Mastodon</a> or <a href="https://www.facebook.com/jpmattiaman/posts/pfbid021aLrevLf6YFAg3UJJXzgGAJBxNUVJD11ufawuSxnb8qb2D2qSinNwnmKmsvKu1SPl">Facebook</a>.</em></p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>I’m not so interested in adding years to the end of my life, so much as I’m interested in adding years in the middle. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+        
+      </section>
+
+      <footer class="page__meta">
+        
+        
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-tags" aria-hidden="true"></i> Tags: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/tags/#exercise" class="page__taxonomy-item p-category" rel="tag">exercise</a><span class="sep">, </span>
+    
+      <a href="/tags/#health" class="page__taxonomy-item p-category" rel="tag">health</a><span class="sep">, </span>
+    
+      <a href="/tags/#post" class="page__taxonomy-item p-category" rel="tag">Post</a><span class="sep">, </span>
+    
+      <a href="/tags/#running" class="page__taxonomy-item p-category" rel="tag">running</a>
+    
+    </span>
+  </p>
+
+
+
+
+  
+
+
+  
+
+  <p class="page__taxonomy">
+    <strong><i class="fas fa-fw fa-folder-open" aria-hidden="true"></i> Categories: </strong>
+    <span itemprop="keywords">
+    
+      <a href="/categories/#post" class="page__taxonomy-item p-category" rel="tag">Post</a>
+    
+    </span>
+  </p>
+
+
+        
+
+  <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> Updated:</strong> <time class="dt-published" datetime="2024-07-28T00:00:00-04:00">July 28, 2024</time></p>
+
+      </footer>
+
+      <section class="page__share">
+  
+    <h4 class="page__share-title">Share on</h4>
+  
+
+  <a href="https://toot.kytta.dev/?text=Racing Post Mortem %0Ahttp%3A%2F%2Flocalhost%3A4000%2Fpost%2FRacing-Post-Mortem%2F" class="btn btn--mastodon" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Mastodon"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i><span> Mastodon</span></a>
+
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Flocalhost%3A4000%2Fpost%2FRacing-Post-Mortem%2F" class="btn btn--facebook" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Facebook"><i class="fab fa-fw fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Flocalhost%3A4000%2Fpost%2FRacing-Post-Mortem%2F" class="btn btn--linkedin" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+
+  <a href="https://twitter.com/intent/tweet?via=jpmattia&text=Racing+Post+Mortem%20http%3A%2F%2Flocalhost%3A4000%2Fpost%2FRacing-Post-Mortem%2F" class="btn btn--twitter" onclick="window.open(this.href, 'window', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on Twitter"><i class="fab fa-fw fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+
+
+</section>
+
+
+      
+  <nav class="pagination">
+    
+      <a href="/post/michelin-restaurants/" class="pagination--pager" title="The Church of the Michelin Star
+">Previous</a>
+    
+    
+      <a href="#" class="pagination--pager disabled">Next</a>
+    
+  </nav>
+
+    </div>
+
+    
+  </article>
+
+  
+  
+</div>
+
+    </div>
+
+    
+
+    <div id="footer" class="page__footer">
+      <footer>
+        <!-- start custom footer snippets -->
+
+<!-- end custom footer snippets -->
+        <div class="page__footer-follow">
+  <ul class="social-icons">
+    <li class="page__footer-copyright"> &copy; 2024 JP Mattia &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </li>
+    
+      <li> Social: </li>
+    
+
+    
+      
+        
+          <li><a href="https://mastodon.mit.edu/@jpmattia" rel="me"><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> </a></li>
+        
+      
+        
+      
+        
+          <li><a href="https://www.facebook.com/jpmattiaman/" rel="me"><i class="fab fa-fw fa-facebook-square" aria-hidden="true"></i> </a></li>
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+
+    
+      <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> </a></li>
+    
+
+    <li> &nbsp;&nbsp;&nbsp;&nbsp; Antisocial: </li>
+    <li><a href="https://twitter.com/jpmattia"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i></a></li>
+
+  </ul>
+</div>
+
+
+      </footer>
+    </div>
+
+    
+  <script src="/assets/js/main.min.js"></script>
+
+
+
+
+
+
+
+
+
+
+  </body>
+</html>
