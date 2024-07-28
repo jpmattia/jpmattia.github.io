@@ -69,6 +69,5 @@ Lastly, some pics to help me remember the pain: {% include gallery id="race_pics
 <hr> 
 [^1]: I'm not so interested in adding years to the end of my life, so much as I'm interested in adding years in the middle.
 
-*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/110251886672861080">Mastodon</a> or <a
-href="https://www.facebook.com/jpmattiaman/posts/pfbid021aLrevLf6YFAg3UJJXzgGAJBxNUVJD11ufawuSxnb8qb2D2qSinNwnmKmsvKu1SPl">Facebook</a>.*
-
+*Comments? Find me on <a href="https://mastodon.mit.edu/@jpmattia/112864899994413017">Mastodon</a> or <a
+href="https://www.facebook.com/jpmattiaman/posts/pfbid02uJvjCrmcpW4KfAZL7AToFui7Xd4jjgs4tBhbZtjzF4oG4iqCePoM4EW4tBfywhkvl">Facebook</a>.*

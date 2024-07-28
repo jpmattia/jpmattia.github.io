@@ -28,10 +28,4 @@ var store = [{
         "tags": ["Post","exercise","health","running"],
         "url": "/post/Racing-Post-Mortem/",
         "teaser": null
-      },{
-        "title": "Racing Post Mortem",
-        "excerpt":"In a quest to maintain fitness, I signed up for “Run For The Ranch 2024”, a series of three 5K races at Paramount Ranch. Paramount Ranch is now part of the National Park Service, but at one time served as the backlot for Paramount Films and had semi-permanent facades for...","categories": ["Post"],
-        "tags": ["Post","exercise","health","running"],
-        "url": "/post/Racing-Post-Mortem/",
-        "teaser": null
       }]
