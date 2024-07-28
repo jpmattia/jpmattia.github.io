@@ -55,7 +55,7 @@ The typical starting temperature is 115 degrees, proving the running adage: No m
 always has it worse.
 
 Here are a few other items I wanted to collect in one place.
- - The two 60 yo faster than me were in the 7:30 min/mile range.
+ - The two 60 year olds faster than me were in the 7:30 min/mile range. Some old guys can still rock.
  - There is a 100 ft hill right in the middle of the race, which practically killed me. Hill profile in the pics below.
  - Apple fitness stats:
    - VO2Max: 51.3 
