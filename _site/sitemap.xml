@@ -18,6 +18,10 @@
 </url>
 <url>
 <loc>http://localhost:4000/post/Racing-Post-Mortem/</loc>
+<lastmod>2023-07-28T00:00:00-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/post/Racing-Post-Mortem/</loc>
 <lastmod>2024-07-28T00:00:00-04:00</lastmod>
 </url>
 <url>
@@ -30,5 +34,8 @@
 <url>
 <loc>http://localhost:4000/newhome</loc>
 <lastmod>2023-06-07T12:02:26-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>
