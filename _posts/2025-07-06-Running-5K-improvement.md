@@ -60,8 +60,8 @@ Next year's goal: Beat at least one person who can legally drive a car. And mayb
 someone who still believes in the tooth fairy.
 
 <figure class="align-left">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025/ParamountRace2025.jpg" alt="Paramount Ranch Race 2025">
-  <figcaption>At the podium for 60-69 year olds.</figcaption>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025/Podium2025.jpg" alt="Paramount Ranch Race 2025">
+  <figcaption>The glory of podium, at least as much glory as 60-69 year olds can have.</figcaption>
 </figure>
 <br>
 <hr> 
