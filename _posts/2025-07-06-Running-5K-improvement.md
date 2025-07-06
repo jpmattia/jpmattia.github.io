@@ -1,7 +1,7 @@
 ---
 title: "The Year I Got 41 Seconds/Mile Faster (And Still Lost to a Kid)"
 excerpt: "At some point, I will achieve superluminal velocities."
-teaser: "/assets/images/2025/RunForTheRanch2025_Action.png"
+teaser: "/assets/images/2025/ParamountRace2025.jpg"
 categories:
   - Post
 tags:
