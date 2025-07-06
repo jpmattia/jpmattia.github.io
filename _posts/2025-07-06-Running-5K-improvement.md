@@ -62,7 +62,7 @@ someone who still believes in the tooth fairy.
 
 <figure class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025/Podium2025.jpg" alt="Paramount Ranch Race 2025">
-  <figcaption>The glory of podium, at least as much glory as 60-69 year olds can have.</figcaption>
+  <figcaption>The glory of the podium, at least as much glory as 60-69 year olds can have.</figcaption>
 </figure>
 <br>
 <hr> 
