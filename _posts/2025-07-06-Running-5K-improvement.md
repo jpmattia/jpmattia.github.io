@@ -14,7 +14,7 @@ use-mathjax: true
 
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/OakParkTrack.jpg){: .align-left .size-200px} 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/RunForTheRanch2025_Action.png){: .align-left .size-200px}
 This is the second year I signed up for a race named Run For The Ranch, which is a three-race 5K series that winds through
 [Paramount Ranch.](https://www.nps.gov/samo/planyourvisit/paramountranch.htm) I hike almost daily at the ranch, so it feels 
 like I'm running on my home turf for these races. That psychological boost is nice, because I can use all the 
@@ -43,6 +43,7 @@ improvement, which I'm quite happy with, and I've also decided that I will impro
 I'm on pace to set the world record in 7 years, and I'll be running at close to the speed of light in 13 years. It is
 important to have goals.
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/OakParkTrack.jpg){: .align-left .size-200px} 
 However the real ego-crushing moment that I'm trying to distract myself from: Despite a marked improvement, I was
 soundly beaten by a ten-year old girl. Now it turns out that the town of Agoura Hills has had its brush with the
 Olympics[^1], and if this young person follows the steady improvement you would expect for someone hitting their teenage
