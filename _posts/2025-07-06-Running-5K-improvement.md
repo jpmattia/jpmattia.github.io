@@ -13,7 +13,8 @@ use-mathjax: true
 
 
 ---
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/RunForTheRanch2025_Action.png){: .align-left .size-200px}
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/OakParkTrack.jpg){: .align-left .size-200px} 
 This is the second year I signed up for a race named Run For The Ranch, which is a three-race 5K series that winds through
 [Paramount Ranch.](https://www.nps.gov/samo/planyourvisit/paramountranch.htm) I hike almost daily at the ranch, so it feels 
 like I'm running on my home turf for these races. That psychological boost is nice, because I can use all the 
@@ -42,13 +43,13 @@ improvement, which I'm quite happy with, and I've also decided that I will impro
 I'm on pace to set the world record in 7 years, and I'll be running at close to the speed of light in 13 years. It is
 important to have goals.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/2025/OakParkTrack.jpg){: .align-left .size-200px} However
-the real ego-crushing moment that I'm trying to distract myself from: Despite a marked improvement, I was soundly beaten
-by a ten-year old girl. Now it turns out that the town of Agoura Hills has had its brush with the Olympics[^1], and if
-this young person follows the steady improvement you would expect for someone hitting their teenage stride, she will be
-rewriting the Olympic record books a number of years in the future, and she'll be running at superluminal velocities
-shortly thereafter. I don't know that race organizers are prepared for the relativistic time effects when she crosses
-the finish line before starting, but her future success will greatly aid in the recovery of my battered ego.
+However the real ego-crushing moment that I'm trying to distract myself from: Despite a marked improvement, I was
+soundly beaten by a ten-year old girl. Now it turns out that the town of Agoura Hills has had its brush with the
+Olympics[^1], and if this young person follows the steady improvement you would expect for someone hitting their teenage
+stride, she will be rewriting the Olympic record books a number of years in the future, and she'll be running at
+superluminal velocities shortly thereafter. I don't know that race organizers are prepared for the relativistic time
+effects when she crosses the finish line before starting, but her future success will greatly aid in the recovery of my
+battered ego.
 
 Here are a few other items I wanted to collect in one place.
  - The 60 year olds faster than me were 6:58/mi and 7:40/mi. As before, some old guys can still rock.
@@ -58,5 +59,10 @@ Here are a few other items I wanted to collect in one place.
 Next year's goal: Beat at least one person who can legally drive a car. And maybe, just maybe, avoid being passed by 
 someone who still believes in the tooth fairy.
 
+<figure class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/2025/ParamountRace2025.jpg" alt="Paramount Ranch Race 2025">
+  <figcaption>At the podium for 60-69 year olds.</figcaption>
+</figure>
+<br>
 <hr> 
 [^1]: One of the volunteers mentioned that this race and the club that runs it was in part formed to raise money for a young [Deena Kastor](https://en.wikipedia.org/wiki/Deena_Kastor) while she was in high school here. 
