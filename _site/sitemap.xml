@@ -21,6 +21,10 @@
 <lastmod>2024-07-28T00:00:00-04:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/post/Running-5K-improvement/</loc>
+<lastmod>2025-07-06T00:00:00-04:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 <lastmod>2023-04-09T23:59:26-04:00</lastmod>
 </url>
@@ -30,5 +34,8 @@
 <url>
 <loc>http://localhost:4000/newhome</loc>
 <lastmod>2023-06-07T12:02:26-04:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/page2/</loc>
 </url>
 </urlset>

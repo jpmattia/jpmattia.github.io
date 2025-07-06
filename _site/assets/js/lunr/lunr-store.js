@@ -28,4 +28,10 @@ var store = [{
         "tags": ["Post","exercise","health","running"],
         "url": "/post/Racing-Post-Mortem/",
         "teaser": null
+      },{
+        "title": "The Year I Got 41 Seconds/Mile Faster (And Still Lost to a Kid)",
+        "excerpt":"This is the second year I signed up for a race named Run For The Ranch, which is a three-race 5K series that winds through Paramount Ranch. I hike almost daily at the ranch, so it feels like I’m running on my home turf for these races. That psychological boost...","categories": ["Post"],
+        "tags": ["Post","exercise","health","running"],
+        "url": "/post/Running-5K-improvement/",
+        "teaser": null
       }]
