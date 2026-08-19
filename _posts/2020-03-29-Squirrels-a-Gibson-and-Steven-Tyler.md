@@ -1,6 +1,7 @@
 ---
 title: "Squirrels, a Gibson, and Steven Tyler"
 excerpt: "In which I play bad blues guitar in front of someone who sings with Steven Tyler."
+teaser: "/assets/images/2020/Squirrel.jpg"
 categories:
   - Post
 tags:
