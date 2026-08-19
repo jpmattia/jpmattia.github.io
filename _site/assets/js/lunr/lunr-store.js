@@ -34,4 +34,10 @@ var store = [{
         "tags": ["Post","exercise","health","running"],
         "url": "/post/Running-5K-improvement/",
         "teaser": null
+      },{
+        "title": "Feeding The Good Wolf",
+        "excerpt":"I received some offline comments regarding an old post of mine about Hayden Panettiere, who very sadly passed away over the weekend. I might as well post my reply here. The original post was a story about discovering that my neighbor was kind to animals, and then being invited over...","categories": ["Post"],
+        "tags": ["Post","neighbors"],
+        "url": "/post/Feeding-The-Good-Wolf/",
+        "teaser": null
       }]
