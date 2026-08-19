@@ -68,6 +68,11 @@ body {
   }
 }
 
+// keeps the post title visually identical to the h2 it used to be
+.page__title--post {
+  font-size: $h-size-2;
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;
