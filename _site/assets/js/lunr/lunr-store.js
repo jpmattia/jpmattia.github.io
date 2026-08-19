@@ -1,4 +1,10 @@
 var store = [{
+        "title": "Squirrels, a Gibson, and Steven Tyler",
+        "excerpt":"To take my mind off the news for a spell, and since there’s nothing like a captive audience (you lucky dogs you), let me regale you with an episode involving our beloved squirrels. Really, I never thought much about the little guys before moving here, and now I’m wondering how...","categories": ["Post"],
+        "tags": ["Post","neighbors"],
+        "url": "/post/Squirrels-a-Gibson-and-Steven-Tyler/",
+        "teaser": null
+      },{
         "title": "A Toast To Mary Chung's",
         "excerpt":"Once upon a time in Cambridge, Massachusetts, just up the road from MIT, there was a terrific Chinese restaurant named Mary Chung’s. The proprietor, Mary, helped to introduce Chinese food to many MIT students across several generations. For those students who did not have a wide selection of cuisine before...","categories": ["Post"],
         "tags": ["Post","restaurants"],

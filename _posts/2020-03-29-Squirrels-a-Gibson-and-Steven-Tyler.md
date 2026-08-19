@@ -1,0 +1,76 @@
+---
+title: "Squirrels, a Gibson, and Steven Tyler"
+excerpt: "In which I play bad blues guitar in front of someone who sings with Steven Tyler."
+categories:
+  - Post
+tags:
+  - Post
+  - neighbors
+---
+
+To take my mind off the news for a spell, and since there's nothing like a captive audience (you lucky dogs you), let
+me regale you with an episode involving our beloved squirrels.
+
+Really, I never thought much about the little guys before moving here, and now I'm wondering how I could have been so
+oblivious to their existence and little personalities.  Many folks have stopped and struck up conversations, so it's
+also been a nice way to meet people.  However, sometimes I need to glare at the dog walkers who let their dogs run
+through our garden after our squirrels.  Hmpf.
+
+So early this year Laura called me downstairs and said that there was SOMEONE OUTSIDE MESSING WITH THE SQUIRRELS.  I
+got all aggressive and went to open the door, only to find that it was one of my neighbors (named Hayden), who had seen
+me feeding the squirrels by hand and was trying to do it herself.  She looked embarrassed, and I just laughed and said
+something to the effect that she was one of many in the neighborhood who'd fallen under the spell of our furry friends.
+Hayden tells me that she loves animals, and I've already seen her boyfriend (let's call him "Dude") out walking with
+their two dogs.  So we all bond over the animals and that's nice, it warms my heart to be around other animal lovers.
+
+Fast forward a couple of weeks to when Laura and I had friends from grad school for dinner: At the end of the night, I
+help the friends back out of our garage and run into Dude who invites me over for a beer. It was late, so I thought I'd
+go drink a quick beer with them to meet and greet and be nice, probably about a half-hour tops (I need my beauty sleep
+in my old age).
+
+One thing leads to another and we're happily chatting along, and it feels a lot like late-night in a (high-end) dorm
+room because these animal lovers are also nice to talk to. Two big differences from a dorm room are that there's a
+gorgeous Gibson acoustic guitar sitting across the room and some late-model Bose speakers, but aside from pricier
+furnishings, it feels like a dorm conversation but composed of adults.  After a little while, the conversation turns to
+what we all do for a living, and Hayden tells me she's been in some TV shows and movies.  I had been warned by an LA
+friend in the movie biz that people in Hollywood will wildly exaggerate accomplishments.  So when my neighbor tells me
+she's been in TV shows and movies, I just politely nod.  She doesn't look at all familiar so these are probably bit
+parts and commercials.  But fine: Making a living out of bit parts is already quite an accomplishment here in LA.  Then
+the Dude says: She is being modest.  He then lists a bunch of movies and TV shows, exactly ZERO I've ever heard of. Now
+I'm embarrassed, and I try to defuse the situation by telling them the last TV show I saw in first-run primetime was
+M\*A\*S\*H.  (This is true, I mostly stopped watching TV in the early 80s.)  Hayden's eyes light up, and she declares
+that she LOVES the fact that I've never heard of her and this explains why we're having such a fun, normal
+conversation.
+
+So we continue having this fun, normal conversation, and a little while later Dude decides to bring up a clip of
+Hayden singing on one of her shows.  It turns out that she has a beautiful voice, and I'm reasonably blown away by the
+scene and her singing...  Wow!  The only coherent thing I can think to say: Is that really you singing?!  It turns out:
+Yes she is, there is no overdub with someone else's voice.
+
+And then Steven Tyler comes out on stage to join her.
+
+After this clip, I politely pick my jaw up off the floor and want to make an effort to bring back the vibe of a fun,
+normal conversation, so I go over to the Gibson acoustic guitar that has just been sitting across the room the entire
+time. I'm not particularly knowledgeable about the entire line of Gibson acoustic guitars, but this one looks pretty
+high end and I pick it up only to find out it's far out of tune. The Dude asks, do you play?  To which I respond: Only
+a little, and I don't have much time these days.  He asked if I could tune it for him, because he's just learning and
+Hayden doesn't play.
+
+At this point, I sense through my beers that something is not adding up: This is a gorgeous Gibson acoustic, it runs at
+least five thousand bucks and no one in the house can play it?  It sits there untuned?  My WTF meter is completely
+pinned, and so I tune it up and rip off rudimentary 12-bar blues.  I haven't played in a while and suck, but the sound
+from this guitar makes me sound better than I am. Or maybe it's the beers messing with my hearing.  Anyway, Dude then
+explains this guitar was custom and given to her by Gibson for the show.
+
+Eventually I realized I've just embarrassed myself by playing bad guitar in front of someone who sings with Steven
+Tyler and for whom Gibson will make a custom issue.
+
+What a night.
+
+Anyway, the clip is here:
+
+{% include video id="9CSf6Z3qQ-8" provider="youtube" %}
+
+<hr>
+
+*This entry originally posted on FB <a href="https://www.facebook.com/jpmattiaman/posts/pfbid02o2v4yuZWfoChMKe9vUzM9tpubMt44xsVBYaJXdBnc9aC38QVvYtKc8nSRJMHE4Pul">here</a>.*

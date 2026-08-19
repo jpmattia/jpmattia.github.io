@@ -9,7 +9,7 @@ tags:
   - neighbors
 ---
 
-I received some offline comments regarding [an old post of mine](https://www.facebook.com/jpmattiaman/posts/pfbid02o2v4yuZWfoChMKe9vUzM9tpubMt44xsVBYaJXdBnc9aC38QVvYtKc8nSRJMHE4Pul) about Hayden
+I received some offline comments regarding [an old post of mine]({{ site.baseurl }}{% post_url 2020-03-29-Squirrels-a-Gibson-and-Steven-Tyler %}) about Hayden
 Panettiere, who very sadly passed away over the weekend. I might as well post my reply here.
 
 The original post was a story about discovering that my neighbor was kind to animals, and then being invited over for a
