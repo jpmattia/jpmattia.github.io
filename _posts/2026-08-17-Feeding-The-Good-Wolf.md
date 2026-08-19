@@ -54,4 +54,4 @@ Do me a favor and make sure you're all feeding the good wolf tonight.
 
 <hr>
 
-*This entry originally posted on FB <a href="https://www.facebook.com/jpmattiaman/posts/pfbid02dYAnw65AjuryqR3hmq571xMT7vr2o4c9wybUuYDxnxkUV9KCsnaUEzJ9PqpZSq1xl">here</a>.*
+*This entry originally posted on FB <a href="https://www.facebook.com/jpmattiaman/posts/pfbid02dYAnw65AjuryqR3hmq571xMT7vr2o4c9wybUuYDxnxkUV9KCsnaUEzJ9PqpZSq1xl">here</a>. Comments? Find me on <a href="https://bsky.app/profile/jpmattia.bsky.social/post/3mtgzo2pntk2s">Bluesky</a>.*

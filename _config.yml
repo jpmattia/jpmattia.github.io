@@ -135,11 +135,8 @@ author:
 footer:
   links:
     - label: ""
-      icon: "fab fa-fw fa-mastodon"
-      url: https://mastodon.mit.edu/@jpmattia
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: https://twitter.com/jpmattia
+      icon: "fab fa-fw fa-bluesky"
+      url: https://bsky.app/profile/jpmattia.bsky.social
     - label: ""
       icon: "fab fa-fw fa-facebook-square"
       url: https://www.facebook.com/jpmattiaman/
