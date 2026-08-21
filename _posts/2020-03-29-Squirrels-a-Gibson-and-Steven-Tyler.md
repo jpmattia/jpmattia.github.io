@@ -2,7 +2,7 @@
 title: "Squirrels, a Gibson, and Steven Tyler"
 excerpt: "In which I play bad blues guitar in front of someone who sings with Steven Tyler."
 teaser: "/assets/images/2020/Squirrel.jpg"
-last_modified_at: 2026-08-19
+last_modified_at: 2026-08-21
 categories:
   - Post
 tags:
@@ -75,4 +75,4 @@ Anyway, the clip is here:
 
 <hr>
 
-*This entry originally posted on FB <a href="https://www.facebook.com/jpmattiaman/posts/pfbid02o2v4yuZWfoChMKe9vUzM9tpubMt44xsVBYaJXdBnc9aC38QVvYtKc8nSRJMHE4Pul">here</a>.*
+*Postscript: A follow-up to this post is [here]({{ site.baseurl }}{% post_url 2026-08-17-Feeding-The-Good-Wolf %}). This entry originally posted on FB <a href="https://www.facebook.com/jpmattiaman/posts/pfbid02o2v4yuZWfoChMKe9vUzM9tpubMt44xsVBYaJXdBnc9aC38QVvYtKc8nSRJMHE4Pul">here</a>.*
