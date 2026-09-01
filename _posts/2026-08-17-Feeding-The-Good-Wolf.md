@@ -10,7 +10,7 @@ tags:
 ---
 
 I received some offline comments regarding [an old post of mine]({{ site.baseurl }}{% post_url 2020-03-29-Squirrels-a-Gibson-and-Steven-Tyler %}) about Hayden
-Panettiere, who very sadly passed away over the weekend. I might as well post my reply here.
+Panettiere, who very sadly passed away on August 16, 2026. I might as well post my reply here.
 
 The original post was a story about discovering that my neighbor was kind to animals, and then being invited over for a
 drink. As you know, I'm a science and tech junkie who's fairly mass-media illiterate, so it came as quite a surprise to
